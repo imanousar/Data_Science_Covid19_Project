@@ -31,6 +31,9 @@ The official dataset of the [COVID-19 infections](https://github.com/CSSEGISandD
 
 <!-- All-Collaborators-LIST:END -->
 
+## Credits
+[CSSEGISandData](https://github.com/CSSEGISandData) for the Dataset.
+
 ## Licenses
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/imanousar/Data-Science/blob/master/LICENSE)
