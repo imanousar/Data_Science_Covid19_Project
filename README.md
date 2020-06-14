@@ -2,7 +2,7 @@
 
 This is a project implemented for the course of Data Science, AGH, Krakow, Poland 2020.
 
-[![Version](https://img.shields.io/badge/version-0.9.0-green.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 ### Description
 
