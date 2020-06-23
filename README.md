@@ -25,7 +25,7 @@ The official dataset of the [COVID-19 infections](https://github.com/CSSEGISandD
 <!-- All-Collaborators-LIST:START -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/rumeysaozaydin"><img src="https://avatars.githubusercontent.com/rumeysaozaydin" width="100px;" alt=""/><br /><sub><b>rumeysaozaydin</b></sub></a><br/>💻</td>
+    <td align="center"><a href="https://github.com/rumeysaozaydin"><br/><sub><b>rumeysaozaydin</b></sub></a><br/>💻</td>
     </tr>
 </table>
 
